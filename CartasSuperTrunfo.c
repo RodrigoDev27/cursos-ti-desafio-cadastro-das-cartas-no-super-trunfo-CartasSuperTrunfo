@@ -36,11 +36,11 @@ int main(){
       
     printf("Qual e a Carta: %s  ", carta1);
     printf("Qual e o estado : %s ", nomeestado);
-    printf(" Qual e o numero do codigo : %d ", codigo);
+    printf("Qual e o numero do codigo : %d ", codigo);
     printf("Qual e o nome da cidade : %s  ", nomecidade);
     printf("Qual e o numero populacional : %d  ", populacao);
     printf("Qual e o tamanho da àrea : %f  ", area);
-    printf(" Qual e o numero do PIB : %f  ", pib);
+    printf("Qual e o numero do PIB : %f  ", pib);
     printf("Qual e o total de pontos turisticos: %d  ", pontoturismo);
 
     return 0;
